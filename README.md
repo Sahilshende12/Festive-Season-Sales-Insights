@@ -64,20 +64,32 @@ Optimize stock for top products to meet expected festive demand.
 Below are visual summaries derived from the data analysis.
 
 Top 10 States by Orders
+
 Top 10 States by Total Sales
+
 Gender Distribution & Spending
+
 Age Group vs Sales
+
 Top Occupations by Sales
+
 Product Category Performance
+
 Top Products by Orders
+
 Each graph visually supports the insights presented above.
+
 
 🛠️ 6. Work Done 
 
 ✅ Performed data cleaning and manipulation to standardize the dataset.
+
 📊 Conducted Exploratory Data Analysis (EDA) using Pandas, Matplotlib, and Seaborn.
+
 🧠 Enhanced customer understanding by identifying potential customers across different states, professions, gender, and age groups.
+
 💼 Improved business decision-making by identifying the most sold product categories and products helping to plan inventory and meet demand effectively.
+
 
 📌 Conclusion
 

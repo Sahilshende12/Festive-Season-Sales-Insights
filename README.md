@@ -40,9 +40,11 @@ These states represent high-volume markets and can be targeted with regional pro
 Gender: Females contributed significantly to sales, especially married women.
 Age Group: Most active buyers were aged 26–35, with strong purchasing trends across categories.
 Marital Status: Married individuals showed higher purchasing power, making them an ideal target for future campaigns.
+
 🏢 Professional Insights:
 Buyers from IT, Healthcare, and Aviation sectors showed higher average spending.
 These sectors indicate stable income groups and can be strategically targeted during promotions.
+
 🛍️ Product-Based Insights:
 Most sold product categories were Food, Clothing, and Electronics.
 A small number of high-performing products dominated orders — ideal for bundling or cross-selling.

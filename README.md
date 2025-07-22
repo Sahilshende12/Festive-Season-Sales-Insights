@@ -93,4 +93,4 @@ Each graph visually supports the insights presented above.
 
 📌 Conclusion
 
-This analysis helped us deeply understand customer trends during the Diwali festival season. By focusing on the right target audience and high-performing products, businesses can refine their marketing and inventory strategies for better outcomes during festive campaigns.
+This analysis helped us deeply understand customer trends during the  festival season. By focusing on the right target audience and high-performing products, businesses can refine their marketing and inventory strategies for better outcomes during festive campaigns.

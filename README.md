@@ -1,6 +1,6 @@
 # Festive-Season-Sales-Insights
 
-Diwali Sales Analysis Report
+Festive-Season-Sales-Insights
 
 ✅ Objective
 

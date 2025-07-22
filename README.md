@@ -34,7 +34,9 @@ Top product categories and items sold
 Top Performing States by number of orders and sales:
 Uttar Pradesh, Maharashtra, and Karnataka.
 These states represent high-volume markets and can be targeted with regional promotions.
+
 👩‍💼 Demographic Insights:
+
 Gender: Females contributed significantly to sales, especially married women.
 Age Group: Most active buyers were aged 26–35, with strong purchasing trends across categories.
 Marital Status: Married individuals showed higher purchasing power, making them an ideal target for future campaigns.
